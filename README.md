@@ -101,16 +101,3 @@ book-review-app/
 3. **Delete a Book**:
    - Click the "Delete" button next to the book you want to remove.
    - The book will be deleted from the database and the list will update dynamically.
-
-## Future Enhancements
-- Implement user authentication.
-- Add more sorting options (e.g., by author, by title).
-- Integrate with a public API to fetch book details automatically.
-- Improve the user interface with more interactive elements.
-
-## Contact
-For any questions or suggestions, please contact [Your Name] at [your.email@example.com].
-
-## Acknowledgments
-- Thanks to the open-source community for providing valuable resources and tools.
-- Special thanks to [mentor/contributor names] for their guidance and support.
