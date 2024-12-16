@@ -1,5 +1,4 @@
 ### README.md
-```markdown
 # Book Review App
 
 ## Description
