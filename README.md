@@ -14,7 +14,7 @@ A web application to store and review books you have read. This application allo
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/book-review-app.git
+   git clone https://github.com/TvxyLxrd/book-review-app.git
    cd book-review-app
    ```
 
@@ -55,12 +55,6 @@ Book
 ## API Integration (Optional)
 - Implement a GET endpoint to interact with a chosen API.
 - Use Axios to send HTTP requests and handle responses.
-
-## Contributors
-- [Your Name]
-
-## License
-This project is licensed under the MIT License.
 
 ## Project Structure
 ```
