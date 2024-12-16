@@ -52,7 +52,7 @@ Book
 - Console log errors for debugging.
 - Display user-friendly error messages on the frontend.
 
-## API Integration (Optional)
+## API Integration
 - Implement a GET endpoint to interact with a chosen API.
 - Use Axios to send HTTP requests and handle responses.
 
